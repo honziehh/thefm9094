@@ -1,0 +1,52 @@
+img{
+  width: 200px;
+  height: 250px;
+  border-radius:65%;
+  /* margin-left: 5em; */
+}
+h1, h2{
+  text-align: center;
+    font-family: 'Saira Stencil One', cursive;
+    color:#fd076a;
+}
+
+h3{
+  text-align: center;
+}
+
+.button-stuff{
+  width: 200px;
+  height: 150px;
+}
+
+#who {
+  border: 10px solid #37f2e4;
+  background-color: #37f2e4;
+  display: inline-block;
+}
+
+#Extra{
+  border: 10px solid #bb8cc1;
+  background-color: #bb8cc1;
+  display: inline-block;
+}
+
+#Fem{
+  border: 10px solid #fd076a;
+  background-color: #fd076a;
+  display: inline-block;
+  margin-bottom: -100px;
+}
+#allbuttons{
+  display: flex;
+  flex-direction: row;
+  margin-left: 19em;
+}
+.text {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.vertical-center{
+  margin-top: 60px;
+}
